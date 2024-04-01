@@ -18,3 +18,6 @@ Blockchain & Distributed Ledger Technology
 ### Leet code stats 👩‍💻 
 ![](https://leetcard.jacoblin.cool/TKarima22?ext=heatmap)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TKarima22&repo=sales_recommendation_system)](https://github.com/anuraghazra/github-readme-stats)
+
