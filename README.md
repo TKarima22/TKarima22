@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/TKarima22/TKarima22/assets/98661875/c906c390-d0b9-4287-bd71-96251f015a8f)
+
 
 - 🔭 I’m currently an engineer student at EMI (Mohamadia School of Engineer)
 - 📫 How to reach me: taira.karima21@gmail.com
