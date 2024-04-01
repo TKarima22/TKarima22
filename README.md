@@ -12,5 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TKarima22&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Leet code stats 👩‍💻 
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/TKarima22?theme=unicorn)
+
