@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+### Karima's GitHub stats 👾
 ![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karima&show_icons=true&theme=radical)
