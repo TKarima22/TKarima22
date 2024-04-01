@@ -7,4 +7,4 @@
 
 
 ### Karima's GitHub stats 👾
-![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karima&show_icons=true&theme=dracula)
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=TKarima22&show_icons=true&theme=dracula)
