@@ -1,8 +1,8 @@
 # Greetings! 🍉
 
-🔭 I'm currently pursuing my engineering degree at EMI (Mohammadia School of Engineering).
-🚀 Engaged in an exciting internship at THA.
-📫 Reach me at: taira.karima21@gmail.com
+🔭 I'm currently pursuing my engineering degree at EMI (Mohammadia School of Engineering).<br>
+🚀 Engaged in an exciting internship at THA.<br>
+📫 Reach me at: taira.karima21@gmail.com.<br>
 😄 Pronouns: She/Her
 
 ## Exploring Passions! 🌟
