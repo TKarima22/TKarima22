@@ -9,9 +9,6 @@
 - DevOps
 - Blockchain & Distributed Ledger Technology
 
-## Karima's GitHub Stats 👾
-![Karima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TKarima22&show_icons=true&theme=dracula)
-
 ## Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TKarima22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
