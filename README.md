@@ -1,8 +1,10 @@
 # Greetings! 🍉
 
-🔭 I'm currently pursuing my engineering degree at EMI (Mohammadia School of Engineering).<br>
-🚀 Engaged in an exciting internship at THA.<br>
-📫 Reach me at: taira.karima21@gmail.com.<br>
+Hi there, I'm Karima Taira 👋
+🔭 Exploring: Cloud infrastructure, DevOps, and automation.
+🚀 Current Role: Engineer at THA.
+🎓 Education: Graduate of EMI (Mohammadia School of Engineering).
+📫 Contact: taira.karima21@gmail.com
 
 
 ## Exploring Passions! 🌟
