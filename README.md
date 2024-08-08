@@ -1,10 +1,10 @@
 # Greetings! 🍉
 
 Hi there, I'm Karima Taira 👋 <br/>
-🔭 Exploring: Cloud infrastructure, DevOps, and automation.
-🚀 Current Role: Engineer at THA.
-🎓 Education: Graduate of EMI (Mohammadia School of Engineering).
-📫 Contact: taira.karima21@gmail.com
+🔭 Exploring: Cloud infrastructure, DevOps, and automation.<br/>
+🚀 Current Role: Engineer at THA.<br/>
+🎓 Education: Graduate of EMI (Mohammadia School of Engineering).<br/>
+📫 Contact: taira.karima21@gmail.com <br/>
 
 
 ## Exploring Passions! 🌟
