@@ -1,4 +1,4 @@
-# Greetings! 🍉
+## Greetings! 🍉
 
 Hi there, I'm Karima Taira 👋 <br/>
 🔭 Exploring: Cloud infrastructure, DevOps, and automation.<br/>
@@ -7,15 +7,14 @@ Hi there, I'm Karima Taira 👋 <br/>
 📫 Contact: taira.karima21@gmail.com <br/>
 
 
-## Exploring Passions! 🌟
+### Exploring Passions! 🌟
 - DevOps
 - Blockchain & Distributed Ledger Technology
 
-## Most Used Languages 
+### Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TKarima22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Leet Code Stats 👩‍💻 
+### Leet Code Stats 👩‍💻 
 ![](https://leetcard.jacoblin.cool/TKarima22?ext=heatmap)
 
-## Badges
-![image](https://github.com/user-attachments/assets/c92dae77-d67c-4d69-a0ed-2fb4a432aa43)
+
