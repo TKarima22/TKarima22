@@ -16,3 +16,6 @@ Hi there, I'm Karima Taira 👋 <br/>
 
 ## Leet Code Stats 👩‍💻 
 ![](https://leetcard.jacoblin.cool/TKarima22?ext=heatmap)
+
+## Badges
+![image](https://github.com/user-attachments/assets/c92dae77-d67c-4d69-a0ed-2fb4a432aa43)
