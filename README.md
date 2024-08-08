@@ -1,6 +1,6 @@
 # Greetings! 🍉
 
-Hi there, I'm Karima Taira 👋
+Hi there, I'm Karima Taira 👋 <br/>
 🔭 Exploring: Cloud infrastructure, DevOps, and automation.
 🚀 Current Role: Engineer at THA.
 🎓 Education: Graduate of EMI (Mohammadia School of Engineering).
